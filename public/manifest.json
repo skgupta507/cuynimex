@@ -23,8 +23,8 @@
             "purpose": "maskable"
         },
         {
-            "src": "/icon-512x512.png",
-            "sizes": "512x512",
+            "src": "/maxresdefault1.png",
+            "sizes": "1280x720",
             "type": "image/png",
             "purpose": "maskable"
         }
