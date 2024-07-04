@@ -5,20 +5,20 @@
     "description": "Watch Anime Online for free without ads on Cuynime",
     "icons": [
         {
-            "src": "/icon-192x192.png",
-            "sizes": "192x192",
+            "src": "/maxresdefault1.png",
+            "sizes": "1280x720",
             "type": "image/png",
             "purpose": "any maskable"
         },
         {
-            "src": "/icon-256x256.png",
-            "sizes": "256x256",
+            "src": "/maxresdefault1.png",
+            "sizes": "1280x720",
             "type": "image/png",
             "purpose": "maskable"
         },
         {
-            "src": "/icon-384x384.png",
-            "sizes": "384x384",
+            "src": "/maxresdefault1.png",
+            "sizes": "1280x720",
             "type": "image/png",
             "purpose": "maskable"
         },
