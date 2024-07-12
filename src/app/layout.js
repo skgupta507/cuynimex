@@ -18,7 +18,7 @@ const inter = Inter({ subsets: ['latin'] })
 
 const APP_NAME = "Cuynime";
 const APP_DEFAULT_TITLE = "cuynime - Watch Anime 😂";
-const APP_DESCRIPTION = "Explore a vast collection of anime on Cuynime, your go-to destination for streaming the latest and classic anime series. Immerse yourself in captivating storylines, vibrant animation, and diverse genres. Discover a world of entertainment at your fingertips with Cuynime, where every episode is an adventure.";
+const APP_DESCRIPTION = "Streaming Anime Tanpa tepung💀💀 Kominfo Kontol.";
 
 export const metadata = {
   metadataBase: new URL('https://cuynime.vercel.com'),
@@ -92,8 +92,8 @@ export default async function RootLayout({ children }) {
       </Script>
       <head>
         <meta name="google-site-verification" content="9Cj5Gd0-OuGDtGb4HpRqNfBXy3FuFCcFNWSvTPOlTzE" />
-        <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
-        <link rel="icon" type="image/png" sizes="192x192" href="/android-chrome-192x192.png" />
+        <link rel="apple-touch-icon" sizes="1280x720" href="/maxresdefault.png" />
+        <link rel="icon" type="image/png" sizes="1280x720" href="/maxresdefault1.png" />
         {/* <script src="https://kit.fontawesome.com/c189d5d7c5.js" crossOrigin="anonymous" async></script> */}
       </head>
       <body className={inter.className}>
